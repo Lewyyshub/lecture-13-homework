@@ -8,5 +8,6 @@ const adult = true;
 let ertad = name + lastname + age + email + number + adult;
 
 console.log(ertad);
-console.log("%ctrue", "color:yellow");
-console.log("%c593122703", "color:red");
+
+console.error(number)
+console.warn(adult)
